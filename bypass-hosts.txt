@@ -16,7 +16,6 @@ amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv
 amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv
 amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv
 amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv
-amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv
 amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv
 bl.rutube.ru
 bsttv.bonus-tv.ru
@@ -64,6 +63,7 @@ rusbrics.mediacdn.ru
 russian-livews.cgtn.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
+starcius-cinema.com
 stream.mcquack.net
 stream8.cinerama.uz
 streams2.sofast.tv
