@@ -26,7 +26,7 @@ cdn-01.bonus-tv.ru
 cdn-evacoder-tv.facecast.io
 cdn-uw2-prod.tsv2.amagi.tv
 cdn.bestream.io
-cdn.qd.je
+cdn.ntv.ru
 cdn4.skygo.mn
 chanson-video.hostingradio.ru
 d1mgh147xpmgs8.cloudfront.net
@@ -35,7 +35,6 @@ d2ah48mnofquik.cloudfront.net
 d39g1vxj2ef6in.cloudfront.net
 d3b6q2ou5kp8ke.cloudfront.net
 dagestan.mediacdn.ru
-de.russkoe-iptv.com
 dk0n7jh428tzj.cloudfront.net
 donmedia.bonus-tv.ru
 dz05z8iljgvbe.cloudfront.net
@@ -45,7 +44,6 @@ igi-hls.cdnvideo.ru
 ingushetia.mediacdn.ru
 jmp2.uk
 lds-timeline-rakuten.amagi.tv
-live-3.otcnet.ru
 live-hls-apps-aje-fa.getaj.net
 live-ugratv.cdnvideo.ru
 live-vgtrksmotrim.cdnvideo.ru
@@ -55,10 +53,9 @@ live2-aisttv.cdnvideo.ru
 lotus.stingray.com
 m.live.net.sa
 moviesphereuk-samsunguk.amagi.tv
+nmk.ioapk.com
 osir.mediacdn.ru
 planeta.mediacdn.ru
-public.streaming.matur-tv.ru
-river-6-601.rtbcdn.ru
 rt-doc.rttv.com
 rtmp.one.by
 rusbrics.mediacdn.ru
