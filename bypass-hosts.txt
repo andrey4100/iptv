@@ -1,6 +1,7 @@
 151.80.18.177
 176.118.197.101
 176.61.157.250
+185.23.80.23
 23.237.104.106
 31.148.48.15
 45.145.32.13
@@ -52,17 +53,16 @@ live.france24.com
 live2-aisttv.cdnvideo.ru
 lotus.stingray.com
 m.live.net.sa
+misterich.megatv.fun
 moviesphereuk-samsunguk.amagi.tv
 nmk.ioapk.com
 osir.mediacdn.ru
 planeta.mediacdn.ru
 rt-doc.rttv.com
 rtmp.one.by
-rusbrics.mediacdn.ru
 russian-livews.cgtn.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
-sra72yz.s.gy
 stream.mcquack.net
 stream8.cinerama.uz
 streams2.sofast.tv
