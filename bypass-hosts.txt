@@ -52,7 +52,6 @@ live.france24.com
 live2-aisttv.cdnvideo.ru
 lotus.stingray.com
 m.live.net.sa
-misterich.megatv.fun
 moviesphereuk-samsunguk.amagi.tv
 nmk.ioapk.com
 osir.mediacdn.ru
@@ -61,6 +60,7 @@ rtmp.one.by
 russian-livews.cgtn.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
+sra72yz.s.gy
 stream.mcquack.net
 stream8.cinerama.uz
 streams2.sofast.tv
