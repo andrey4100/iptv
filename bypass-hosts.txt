@@ -5,7 +5,6 @@
 23.237.104.106
 31.148.48.15
 45.145.32.13
-45.190.28.50
 46.32.176.50
 85.237.89.160
 86fdc85a.wurl.com
@@ -34,6 +33,7 @@ d2ah48mnofquik.cloudfront.net
 d39g1vxj2ef6in.cloudfront.net
 d3b6q2ou5kp8ke.cloudfront.net
 dagestan.mediacdn.ru
+dash4.antik.sk
 dk0n7jh428tzj.cloudfront.net
 donmedia.bonus-tv.ru
 dz05z8iljgvbe.cloudfront.net
