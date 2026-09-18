@@ -53,6 +53,7 @@ live2-aisttv.cdnvideo.ru
 lotus.stingray.com
 m.live.net.sa
 moviesphereuk-samsunguk.amagi.tv
+mumbai-edge.smartplaytv.in
 nmk.ioapk.com
 osir.mediacdn.ru
 rt-doc.rttv.com
@@ -60,9 +61,9 @@ rtmp.one.by
 russian-livews.cgtn.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
 sirius.greenhosting.ru
+str2.iptvhd.ru
 stream.mcquack.net
 stream8.cinerama.uz
 streams2.sofast.tv
-tv-trtworld.medya.trt.com.tr
 tvoetv.space
 vgtrkregion-reg.cdnvideo.ru
