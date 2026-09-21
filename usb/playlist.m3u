@@ -141,7 +141,7 @@ https://bloomberg.com/media-manifest/streams/qt.m3u8
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="🌎 Премиум док." tvg-name="CGTN Documentary",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/Court_TV_2019.png" group-title="🔍 Криминал и расследования" tvg-name="Court TV",Court TV
+#EXTINF:-1 tvg-id="CourtTV.us@SD" tvg-logo="https://i.imgur.com/jOKA735.png" group-title="🔍 Криминал и расследования" tvg-name="Court TV",Court TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="Dateline247.us@SD" tvg-logo="https://i.imgur.com/8mAJuut.png" group-title="🔍 Криминал и расследования" tvg-name="Dateline 24/7",Dateline 24/7
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896029/hls/master.m3u8?ads.xumo_channelId=88896029
