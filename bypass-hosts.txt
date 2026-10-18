@@ -44,6 +44,5 @@ mumbai-edge.smartplaytv.in
 nmk.ioapk.com
 rt-doc.rttv.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
-sirius.greenhosting.ru
 stream.mcquack.net
 stream8.cinerama.uz
