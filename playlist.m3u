@@ -43,6 +43,8 @@ http://stream.mcquack.net/318/index.m3u8
 http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1 tvg-id="BRIDGEClassic.ru@SD" tvg-logo="https://i.imgur.com/JJTQq81.png" group-title="🎵 Музыка" tvg-name="BRIDGE Classic",BRIDGE Classic
 http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 tvg-id="VIVARussia.ru@SD" tvg-logo="https://i.imgur.com/OFhQQCD.png" group-title="🎵 Музыка" tvg-name="VIVA Russia",VIVA Russia
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8
 #EXTINF:-1 tvg-id="15PlusMusic.ru@HD" tvg-logo="https://i.imgur.com/kj21hwd.png" group-title="🎵 Музыка" tvg-name="15+ Music",15+ Music
 https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1 tvg-id="DeluxeMusic.de@SD" tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="🎵 Музыка" tvg-name="Deluxe Music",Deluxe Music

@@ -37,6 +37,7 @@ lds-timeline-rakuten.amagi.tv
 live-hls-apps-aje-fa.getaj.net
 live.15plusmg.ru
 live.france24.com
+live20.bozztv.com
 lotus.stingray.com
 m.live.net.sa
 moviesphereuk-samsunguk.amagi.tv
