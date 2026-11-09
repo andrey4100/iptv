@@ -43,7 +43,6 @@ lotus.stingray.com
 m.live.net.sa
 moviesphereuk-samsunguk.amagi.tv
 mumbai-edge.smartplaytv.in
-nmk.ioapk.com
 rt-doc.rttv.com
 sdn-global-live-streaming-packager-cache.3qsdn.com
 stream.mcquack.net
